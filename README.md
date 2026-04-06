@@ -158,6 +158,7 @@ The bike-sharing system has transformed significantly, with major growth in 2025
 ##  Author
 
 Ezhilarasi S
+Aspiring Data Analyst | Excel | Power BI | SQL
 
 ---
 
