@@ -162,6 +162,3 @@ Aspiring Data Analyst | Excel | Power BI | SQL
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
