@@ -148,7 +148,7 @@ The bike-sharing system has transformed significantly, with major growth in 2025
 
 ##  Project Files
 
-* Bike_Stations_Sharing_Dashboard (.pbix)
+* Bike_Stations_Sharing_Analysis (.pbix)
 * Project Report (.pdf)
 * Bike_Stations_Sharing_Data (.xlsx)
 * Bike_Stations_Sharing_Dashboard (.pdf)
